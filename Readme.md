@@ -61,7 +61,7 @@ An **API (Application Programming Interface)** is a set of rules and protocols t
 
 ### Newman Report
 
-- **Generate Report**: After running the Postman collection with Newman, review the detailed HTML report (`newman-report.html`) and screenshot in the `newman-report/` directory. You can access the report [here](https://drive.google.com/file/d/1YS06I2pEtWWQkGq0TRWdQyZFNeiqbFf0/view?usp=drive_link).s
+- **Generate Report**: After running the Postman collection with Newman, review the detailed HTML report (`newman-report.html`) and screenshot in the `newman-report/` directory. You can access the report [here](https://drive.google.com/file/d/1YS06I2pEtWWQkGq0TRWdQyZFNeiqbFf0/view?usp=drive_link).
 ![screencapture-file-C-Users-ASUS-Desktop-Dmoney-collection-Reports-report-html-2024-07-17-16_19_26](https://github.com/user-attachments/assets/03b06a93-0f8c-4b33-b827-42458f30f94f)
 
 
